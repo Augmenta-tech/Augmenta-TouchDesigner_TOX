@@ -2,6 +2,9 @@
 Augmenta Tox node for [TouchDesigner](https://derivative.ca/) created by [Theoriz Studio](https://www.theoriz.com/fr/bienvenue/)
 
 
+![TDTOX](https://user-images.githubusercontent.com/64955193/138916782-606535b4-1794-4290-8493-b7af04d98373.PNG)
+
+
 TOX Explanation
 -------------------------------------
 This Tox help you to receive and use Augmenta data.
